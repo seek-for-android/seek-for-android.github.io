@@ -27,9 +27,13 @@ a {
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
+  width: 15%;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
   .btn + .btn {
-    margin-left: 1rem; }
+    margin-left: 1rem; 
+
+
+  }
 
 .btn:hover {
   color: #FFF;
