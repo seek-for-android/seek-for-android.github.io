@@ -20,16 +20,16 @@
 
     <sdk:add-on>
         <sdk:name>Open Mobile API</sdk:name>
-        <sdk:api-level>15</sdk:api-level>
+        <sdk:api-level>19</sdk:api-level>
         <sdk:vendor>Giesecke Devrient GmbH</sdk:vendor>
-        <sdk:revision>03</sdk:revision>
+        <sdk:revision>01</sdk:revision>
         <sdk:description>SIMalliance Open Mobile API for Android</sdk:description>
-        <sdk:desc-url>http://seek-for-android.googlecode.com/svn/trunk/repository/</sdk:desc-url>
+        <sdk:desc-url>http://seek-for-android.googlecode.com/svn/trunk/repository/19/</sdk:desc-url>
         <sdk:uses-license ref="android-sdk-license" />
         <sdk:archives>
             <sdk:archive os="any">
-                <sdk:size>20480</sdk:size>
-                <sdk:checksum type="sha1">5d3fef2384afcdd415d3013797629f6539c180ad</sdk:checksum>
+                <sdk:size>77156</sdk:size>
+                <sdk:checksum type="sha1">38dc3fa59cf287a7b3fb1981d2f1e2f311a438f4</sdk:checksum>
                 <sdk:url>scapi.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -44,7 +44,7 @@
     <sdk:license type="text" id="android-sdk-license">
 Licensed under the Apache License, version 2.0 (the "License");
 
-July 5, 2012
+July 15th, 2014
     </sdk:license>
 
 </sdk:sdk-addon>
