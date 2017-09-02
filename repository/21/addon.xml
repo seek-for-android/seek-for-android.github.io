@@ -24,7 +24,7 @@
         <sdk:vendor>Giesecke Devrient GmbH</sdk:vendor>
         <sdk:revision>01</sdk:revision>
         <sdk:description>SIMalliance Open Mobile API for Android</sdk:description>
-        <sdk:desc-url>seek-for-android.github.io/reposiroty/21/</sdk:desc-url>
+        <sdk:desc-url>seek-for-android.github.io/repository/21/</sdk:desc-url>
         <sdk:uses-license ref="android-sdk-license" />
         <sdk:archives>
             <sdk:archive os="any">
